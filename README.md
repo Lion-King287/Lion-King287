@@ -1,5 +1,8 @@
-**Welcome on my user-profile**
+**Welcome on my profile-page!** 🍀
 
-Hey, I am a ongoing java-developer.
+Heyy, I am an aspiring Java developer, 
+most of the projects I start have something to do with Minecraft or Discord 
 
-*If you want to contact me, use my discord: Lion_King287#5393*
+Feel free to contact me on Discord: Lion_King287#5393
+
+Be nice to everyone! 😉
