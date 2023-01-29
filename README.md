@@ -1,3 +1,7 @@
+<h1 align="center">Hey nice to meet you, I'm Lion_King287 :D</h1>
+
+<hr>
+
 **Welcome on my profile-page!** 🍀
 
 Heyy, I am an aspiring Java developer, 
