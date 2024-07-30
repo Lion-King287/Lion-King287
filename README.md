@@ -1,10 +1,16 @@
-<h1 align="center">Hey nice to meet you, I'm Lion_King287 :D</h1>
+<h1 align="center">Welcome on my profile-page!</h1>
 
-<hr>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-lion-king287s-projects.vercel.app/api?username=lion-king287&show_icons=true&theme=tokyonight"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-lion-king287s-projects.vercel.app/api/top-langs/?username=lion-king287&layout=donut&show_icons=true&theme=tokyonight"/>
+</a>
 
-**Welcome on my profile-page!** 🍀
 
-Hey, I am an aspiring Java developer, 
-most of the projects I start have something to do with Minecraft or Discord :D
+<br>
+<br>
 
-Feel free to contact me on [Discord](discord://discord.com/users/691710170157547613): @lion_king287
+<p align="center"><b>Hey, nice to meet you, I'm Lion_King287 :D</b></p>
+
+<p align="center">Feel free to contact me on <a href="discord://discord.com/users/691710170157547613">Discord</a>: @lion_king287</p>
